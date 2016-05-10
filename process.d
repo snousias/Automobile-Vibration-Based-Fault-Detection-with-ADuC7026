@@ -1,0 +1,16 @@
+process.o: Process.c
+process.o: C:\Keil\ARM\INC\ADI\ADuC7026.h
+process.o: C:\Keil\ARM\INC\ADI\irq.h
+process.o: C:\Keil\ARM\INC\ADI\timer.h
+process.o: C:\Keil\ARM\INC\ADI\dac.h
+process.o: C:\Keil\ARM\INC\ADI\uart.h
+process.o: C:\Keil\ARM\INC\ADI\I2C.h
+process.o: C:\Keil\ARM\INC\ADI\PLA.H
+process.o: C:\Keil\ARM\INC\ADI\GPIO.h
+process.o: C:\Keil\ARM\INC\ADI\flash.h
+process.o: C:\Keil\ARM\INC\ADI\pwm.h
+process.o: C:\Keil\ARM\RV31\INC\stdio.h
+process.o: C:\Keil\ARM\RV31\INC\stdlib.h
+process.o: C:\Keil\ARM\RV31\INC\string.h
+process.o: C:\Keil\ARM\RV31\INC\math.h
+process.o: definitions.h

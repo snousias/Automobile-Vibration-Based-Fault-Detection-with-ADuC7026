@@ -1,0 +1,16 @@
+initializations.o: Initializations.c
+initializations.o: C:\Keil\ARM\INC\ADI\ADuC7026.h
+initializations.o: C:\Keil\ARM\INC\ADI\irq.h
+initializations.o: C:\Keil\ARM\INC\ADI\timer.h
+initializations.o: C:\Keil\ARM\INC\ADI\dac.h
+initializations.o: C:\Keil\ARM\INC\ADI\uart.h
+initializations.o: C:\Keil\ARM\INC\ADI\I2C.h
+initializations.o: C:\Keil\ARM\INC\ADI\PLA.H
+initializations.o: C:\Keil\ARM\INC\ADI\GPIO.h
+initializations.o: C:\Keil\ARM\INC\ADI\flash.h
+initializations.o: C:\Keil\ARM\INC\ADI\pwm.h
+initializations.o: C:\Keil\ARM\RV31\INC\stdio.h
+initializations.o: C:\Keil\ARM\RV31\INC\stdlib.h
+initializations.o: C:\Keil\ARM\RV31\INC\string.h
+initializations.o: C:\Keil\ARM\RV31\INC\math.h
+initializations.o: definitions.h

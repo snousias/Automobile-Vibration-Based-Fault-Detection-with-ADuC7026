@@ -1,0 +1,16 @@
+variablechannel-v14.o: Variablechannel-v14.c
+variablechannel-v14.o: C:\Keil\ARM\INC\ADI\ADuC7026.h
+variablechannel-v14.o: C:\Keil\ARM\INC\ADI\irq.h
+variablechannel-v14.o: C:\Keil\ARM\INC\ADI\timer.h
+variablechannel-v14.o: C:\Keil\ARM\INC\ADI\dac.h
+variablechannel-v14.o: C:\Keil\ARM\INC\ADI\uart.h
+variablechannel-v14.o: C:\Keil\ARM\INC\ADI\I2C.h
+variablechannel-v14.o: C:\Keil\ARM\INC\ADI\PLA.H
+variablechannel-v14.o: C:\Keil\ARM\INC\ADI\GPIO.h
+variablechannel-v14.o: C:\Keil\ARM\INC\ADI\flash.h
+variablechannel-v14.o: C:\Keil\ARM\INC\ADI\pwm.h
+variablechannel-v14.o: C:\Keil\ARM\RV31\INC\stdio.h
+variablechannel-v14.o: C:\Keil\ARM\RV31\INC\stdlib.h
+variablechannel-v14.o: C:\Keil\ARM\RV31\INC\string.h
+variablechannel-v14.o: C:\Keil\ARM\RV31\INC\math.h
+variablechannel-v14.o: definitions.h

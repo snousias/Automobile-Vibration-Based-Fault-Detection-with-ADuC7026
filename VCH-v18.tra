@@ -1,0 +1,31 @@
+*** Creating Trace Output File 'VCH-v18.tra' Ok.
+### Preparing for ADS-LD.
+### Creating ADS-LD Command Line
+### List of Objects: adding '"aduc702x.o"'
+### List of Objects: adding '"cepstrum.o"'
+### List of Objects: adding '"comparefunctions.o"'
+### List of Objects: adding '"controlmodule.o"'
+### List of Objects: adding '"fft.o"'
+### List of Objects: adding '"initializations.o"'
+### List of Objects: adding '"process.o"'
+### List of Objects: adding '"processmodule.o"'
+### List of Objects: adding '"retarget.o"'
+### List of Objects: adding '"rms.o"'
+### List of Objects: adding '"system.o"'
+### List of Objects: adding '"variablechannel-v14.o"'
+### List of Objects: adding '"window.o"'
+### ADS-LD Command completed:
+--device DARMAD "aduc702x.o" "cepstrum.o" "comparefunctions.o" "controlmodule.o" "fft.o" "initializations.o" "process.o" "processmodule.o" "retarget.o" "rms.o" "system.o" "variablechannel-v14.o" "window.o" --strict --scatter "VCH-v18.sct" 
+--autoat --summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\VCH-v18.map" -o "VCH-v18.axf"### Preparing Environment (PrepEnvAds)
+### ADS-LD Output File: 'VCH-v18.axf'
+### ADS-LD Command File: 'VCH-v18.lnp'
+### Checking for dirty Components...
+### Creating CmdFile 'VCH-v18.lnp', Handle=0x00000324
+### Writing '.lnp' file
+### ADS-LD Command file 'VCH-v18.lnp' is ready.
+### ADS-LD: About to start ADS-LD Thread.
+### ADS-LD: executed with 0 errors
+### Updating obj list
+### LDADS_file() completed.

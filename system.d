@@ -1,0 +1,16 @@
+system.o: System.c
+system.o: C:\Keil\ARM\INC\ADI\ADuC7026.h
+system.o: C:\Keil\ARM\INC\ADI\irq.h
+system.o: C:\Keil\ARM\INC\ADI\timer.h
+system.o: C:\Keil\ARM\INC\ADI\dac.h
+system.o: C:\Keil\ARM\INC\ADI\uart.h
+system.o: C:\Keil\ARM\INC\ADI\I2C.h
+system.o: C:\Keil\ARM\INC\ADI\PLA.H
+system.o: C:\Keil\ARM\INC\ADI\GPIO.h
+system.o: C:\Keil\ARM\INC\ADI\flash.h
+system.o: C:\Keil\ARM\INC\ADI\pwm.h
+system.o: C:\Keil\ARM\RV31\INC\stdio.h
+system.o: C:\Keil\ARM\RV31\INC\stdlib.h
+system.o: C:\Keil\ARM\RV31\INC\string.h
+system.o: C:\Keil\ARM\RV31\INC\math.h
+system.o: definitions.h

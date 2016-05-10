@@ -1,0 +1,16 @@
+window.o: Window.c
+window.o: C:\Keil\ARM\INC\ADI\ADuC7026.h
+window.o: C:\Keil\ARM\INC\ADI\irq.h
+window.o: C:\Keil\ARM\INC\ADI\timer.h
+window.o: C:\Keil\ARM\INC\ADI\dac.h
+window.o: C:\Keil\ARM\INC\ADI\uart.h
+window.o: C:\Keil\ARM\INC\ADI\I2C.h
+window.o: C:\Keil\ARM\INC\ADI\PLA.H
+window.o: C:\Keil\ARM\INC\ADI\GPIO.h
+window.o: C:\Keil\ARM\INC\ADI\flash.h
+window.o: C:\Keil\ARM\INC\ADI\pwm.h
+window.o: C:\Keil\ARM\RV31\INC\stdio.h
+window.o: C:\Keil\ARM\RV31\INC\stdlib.h
+window.o: C:\Keil\ARM\RV31\INC\string.h
+window.o: C:\Keil\ARM\RV31\INC\math.h
+window.o: definitions.h

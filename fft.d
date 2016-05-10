@@ -1,0 +1,16 @@
+fft.o: FFT.c
+fft.o: C:\Keil\ARM\INC\ADI\ADuC7026.h
+fft.o: C:\Keil\ARM\INC\ADI\irq.h
+fft.o: C:\Keil\ARM\INC\ADI\timer.h
+fft.o: C:\Keil\ARM\INC\ADI\dac.h
+fft.o: C:\Keil\ARM\INC\ADI\uart.h
+fft.o: C:\Keil\ARM\INC\ADI\I2C.h
+fft.o: C:\Keil\ARM\INC\ADI\PLA.H
+fft.o: C:\Keil\ARM\INC\ADI\GPIO.h
+fft.o: C:\Keil\ARM\INC\ADI\flash.h
+fft.o: C:\Keil\ARM\INC\ADI\pwm.h
+fft.o: C:\Keil\ARM\RV31\INC\stdio.h
+fft.o: C:\Keil\ARM\RV31\INC\stdlib.h
+fft.o: C:\Keil\ARM\RV31\INC\string.h
+fft.o: C:\Keil\ARM\RV31\INC\math.h
+fft.o: definitions.h

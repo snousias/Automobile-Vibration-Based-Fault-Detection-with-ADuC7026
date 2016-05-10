@@ -1,0 +1,4 @@
+--device DARMAD "aduc702x.o" "cepstrum.o" "comparefunctions.o" "controlmodule.o" "fft.o" "initializations.o" "process.o" "processmodule.o" "retarget.o" "rms.o" "system.o" "variablechannel-v14.o" "window.o" --strict --scatter "VCH-v18.sct" 
+--autoat --summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\VCH-v18.map" -o "VCH-v18.axf"

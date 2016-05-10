@@ -1,0 +1,16 @@
+controlmodule.o: Controlmodule.c
+controlmodule.o: C:\Keil\ARM\INC\ADI\ADuC7026.h
+controlmodule.o: C:\Keil\ARM\INC\ADI\irq.h
+controlmodule.o: C:\Keil\ARM\INC\ADI\timer.h
+controlmodule.o: C:\Keil\ARM\INC\ADI\dac.h
+controlmodule.o: C:\Keil\ARM\INC\ADI\uart.h
+controlmodule.o: C:\Keil\ARM\INC\ADI\I2C.h
+controlmodule.o: C:\Keil\ARM\INC\ADI\PLA.H
+controlmodule.o: C:\Keil\ARM\INC\ADI\GPIO.h
+controlmodule.o: C:\Keil\ARM\INC\ADI\flash.h
+controlmodule.o: C:\Keil\ARM\INC\ADI\pwm.h
+controlmodule.o: C:\Keil\ARM\RV31\INC\stdio.h
+controlmodule.o: C:\Keil\ARM\RV31\INC\stdlib.h
+controlmodule.o: C:\Keil\ARM\RV31\INC\string.h
+controlmodule.o: C:\Keil\ARM\RV31\INC\math.h
+controlmodule.o: definitions.h
